@@ -10,6 +10,7 @@ the project was made in accordance with the school design code standard in the C
 
 ### how to use
 the project will work only on mas os.
+
 last parameter is optional.
 ```
 make
