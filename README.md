@@ -1,12 +1,12 @@
 ## philosophers
 
-project of 42 school where it is necessary to solve the problem of dining philosophers in C using a separate thread for each philosopher.
+project of École 42 where it is necessary to solve the problem of dining philosophers in C using a separate thread for each philosopher.
 
 the dining philosophers problem is an example problem often used in concurrent algorithm design to illustrate synchronization issues and techniques for resolving them. https://en.wikipedia.org/wiki/Dining_philosophers_problem
 
 the goal is to create a program that simulate the 3 states of philosophers and print log of any change of status.
 
-the project was made in accordance with the school design code standard in the C language.
+the project was made in accordance with the school design code standard in C language.
 
 ### how to use
 the project will work only on mas os.
